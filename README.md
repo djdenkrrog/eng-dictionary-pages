@@ -1,5 +1,6 @@
-# test-pages
-url: https://djdenkrrog.github.io/test-pages/
-settings: https://github.com/djdenkrrog/test-pages/settings/pages
-For test github pages
+# eng-dictionary-pages: for learning eng worlds
+
+url: https://djdenkrrog.github.io/eng-dictionary-pages/
+settings: https://github.com/djdenkrrog/eng-dictionary-pages/settings/pages
+
 

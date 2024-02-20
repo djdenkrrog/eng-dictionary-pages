@@ -1,0 +1,2875 @@
+{
+  "data": [
+    {
+      "id": "59b835ac-2112-47da-897b-3d1ca5900109",
+      "eng": "achieved",
+      "ru": "достигнуто",
+      "engExample": "You achieved so much in your life",
+      "ruExample": "Вы достигли многого в своей жизни",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4c514702-0307-46f1-8cfd-9afaa0c34765",
+      "eng": "wonderful",
+      "ru": "прекрасная",
+      "engExample": "You have a wonderful family",
+      "ruExample": "У вас прекрасная семья",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7c73454c-9943-461d-93f0-02b61d3424ad",
+      "eng": "looks like",
+      "ru": "выглядит как",
+      "engExample": "And it looks like you find time to have fun",
+      "ruExample": "И похоже вы находите время для развлечений",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c477366d-fec1-46a9-8739-1431409d148d",
+      "eng": "jar",
+      "ru": "банка",
+      "engExample": "large glass jar",
+      "ruExample": "Большая стеклянная банка",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6c19cc7a-2a35-4adf-b1f4-58808e7131b2",
+      "eng": "stones",
+      "ru": "камни",
+      "engExample": "He pulled out a large glass jar, some stones, pebbles and sand",
+      "ruExample": "Он достал большую стеклянную банку, несколько камней гальку и песок.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c5df8bf2-aef2-4659-9abd-90a588eea14f",
+      "eng": "pebbles",
+      "ru": "галька",
+      "engExample": "He pulled out a large glass jar, some stones, pebbles and sand",
+      "ruExample": "Он достал большую стеклянную банку, несколько камней гальку и песок.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "91f0f1da-ace5-4342-8bc8-bd0b60129944",
+      "eng": "sand",
+      "ru": "песок",
+      "engExample": "He pulled out a large glass jar, some stones, pebbles and sand",
+      "ruExample": "Он достал большую стеклянную банку, несколько камней гальку и песок.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bb9b5940-36c9-4f33-8012-5fc212a3604b",
+      "eng": "then",
+      "ru": "затем",
+      "engExample": "Then he said",
+      "ruExample": "Затем он сказал",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7f3f5a0a-9c5d-4dd5-90cb-d8a30fc60423",
+      "eng": "imagine",
+      "ru": "представлять себе",
+      "engExample": "Imagine your life as a jar",
+      "ruExample": "Представь что ваша жизнь это банка",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d8b2cbad-ab43-4d12-8bc2-6ff9b9afb722",
+      "eng": "represents",
+      "ru": "представляет",
+      "engExample": "This jar represents your time",
+      "ruExample": "Эта банка  представляет твое время",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d19d7449-a67d-43be-a35a-b2af4f32c9f2",
+      "eng": "wisely ",
+      "ru": "мудро",
+      "engExample": "Wisely said",
+      "ruExample": "Мудро сказал",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "11bcc286-0dd6-4af1-8d9e-b11bc0b8dff0",
+      "eng": "wisdom",
+      "ru": "мудрость",
+      "engExample": "Wisdom of the river",
+      "ruExample": "Мудрость реки",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f342f51d-a161-4f85-ae10-157870d03443",
+      "eng": "important",
+      "ru": "важный",
+      "engExample": "Important things",
+      "ruExample": "Важные вещи",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5f069dd3-6d40-494d-bedc-7d1a009deb6e",
+      "eng": "insignificant",
+      "ru": "незначительный",
+      "engExample": "Insignificant things",
+      "ruExample": "Незначительные вещи",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "84af86df-7c3a-49af-8153-1423521e4872",
+      "eng": "education",
+      "ru": "образование",
+      "engExample": "Your education",
+      "ruExample": "Твое образование",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a89b74ea-7d67-4bc7-8908-d326bcfc4a4b",
+      "eng": "exercising",
+      "ru": "упражнение",
+      "engExample": "Exercising or helping your friend",
+      "ruExample": "Тренируюсь или помогаю другу",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0a2322da-faf8-440e-b00b-1bf9fd777503",
+      "eng": "vary",
+      "ru": "разные, меняться",
+      "engExample": "The results will very",
+      "ruExample": "Результаты будут разные",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "acadda42-79d9-4e04-be0a-059ef1f6c910",
+      "eng": "enough",
+      "ru": "достаточно",
+      "engExample": "Not be enough space",
+      "ruExample": "Не хватит места",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "defd8e5a-b8ad-4522-9bfc-3f82166c6998",
+      "eng": "there might",
+      "ru": "там может быть",
+      "engExample": "There might, not be enough space",
+      "ruExample": "Там может быть не достаточно места/Возможно, не хватит места",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "cc48948e-77a9-4a81-9112-cb3c6359819d",
+      "eng": "them",
+      "ru": "их",
+      "engExample": "I put them to bed for the night",
+      "ruExample": "Я уложил их спать на ночь",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f822c8cd-9043-4146-80fa-a8c6a1b30b81",
+      "eng": "around them",
+      "ru": "вокруг них",
+      "engExample": "You can fit the sand around them",
+      "ruExample": "Вы можете разместить песок вокруг них.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8c426207-8932-4d69-83eb-fe5bde8fe01c",
+      "eng": "less important",
+      "ru": "менее важно",
+      "engExample": "Less important things",
+      "ruExample": "Менее важные вещи",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b56ee808-4abd-4f66-977f-7c7029060362",
+      "eng": "most important",
+      "ru": "более важно ",
+      "engExample": "Most important things",
+      "ruExample": "Более важные вещи",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "65146794-3b1a-410b-8376-f4107573442b",
+      "eng": "discover",
+      "ru": "обнаружить/открывать",
+      "engExample": "You will discover that you can do a lot",
+      "ruExample": "Вы обнаружите, что можете многое",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2cefba8b-cbcb-4c7a-80a6-f2e8d428a284",
+      "eng": "to take care",
+      "ru": "заботиться",
+      "engExample": "To take care of the baby",
+      "ruExample": "Чтобы заботиться о ребенке",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8c780961-6d17-4e21-8473-1c3850197b70",
+      "eng": "that matter",
+      "ru": "это имеет значение",
+      "engExample": "Take care of the things that matter",
+      "ruExample": "Позаботьтесь о вещах которые имеют значение/Позаботьтесь о том что важно",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f5ff8039-b19d-4388-8e92-56b05f762ee4",
+      "eng": "feel",
+      "ru": "чувствовать",
+      "engExample": "You will feel good",
+      "ruExample": "Вы будете чувствовать себя хорошо",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f2b320d4-9ac5-43d9-be77-2a63b1e4521f",
+      "eng": "spend",
+      "ru": "тратить/проводить",
+      "engExample": "How you spend your day",
+      "ruExample": "Как ты провел свой день",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "59e414fa-ebae-42a8-b0bc-89a65b346fd2",
+      "eng": "fulfilling life",
+      "ru": "полноценная жизнь",
+      "engExample": "And you will live fulfilling life",
+      "ruExample": "И ты будешь жить полноценной жизнью",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9f16b0a9-143f-4db9-9541-c495d7d49c94",
+      "eng": "just",
+      "ru": "просто",
+      "engExample": "Just jump",
+      "ruExample": "Просто подпрыгни",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3be0d5af-3419-41d1-8156-64013ef699f2",
+      "eng": "trouble",
+      "ru": "беда",
+      "engExample": "When in trouble",
+      "ruExample": "Когда в беде",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c28ba3ee-af1c-4bf7-86d4-4f57efe08519",
+      "eng": "startle",
+      "ru": "испугать",
+      "engExample": "Can startle anyone",
+      "ruExample": "Можно испугать любого",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6c636132-31d2-4fb3-96c7-e3dceda0a53b",
+      "eng": "ambitious",
+      "ru": "амбициозный, чистолюбивый",
+      "engExample": "A young, ambitious man.",
+      "ruExample": "Молодой амбициозный мужчина",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "69d0b6de-32da-4f76-898a-b866012520f4",
+      "eng": "advice",
+      "ru": "совет",
+      "engExample": "Seek advice",
+      "ruExample": "исакть совет, прийти за советом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3aaaa9d8-f4fc-4c70-aad9-ae777d1b5082",
+      "eng": "seek",
+      "ru": "искать",
+      "engExample": "Seek advice",
+      "ruExample": "исакть совет, прийти за советом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "62809eb8-d394-49d7-9a08-f8e1237f1e19",
+      "eng": "nearby",
+      "ru": "рядом, поблизости",
+      "engExample": "Pointed to the forest nearby",
+      "ruExample": "Указать на ближайший лес",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "db93324c-f396-4f83-a471-19bb4729e255",
+      "eng": "excited",
+      "ru": "взволнованный",
+      "engExample": "The boy was very excited",
+      "ruExample": "Мальчик был очень взволнован",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b510fc46-5dae-43a7-923f-954ad64871fd",
+      "eng": "great excitement",
+      "ru": "большое волнение",
+      "engExample": "The young man marched to the forest, with great excitement",
+      "ruExample": "Молодой человек пошел в лес с большим волнением.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ec639098-5939-4bb7-a391-aeaf5531b9fc",
+      "eng": "serve",
+      "ru": "служить, обслуживать",
+      "engExample": "It will serve me, well for the rest of my life",
+      "ruExample": "Это послужит мне всю оставшуюся жизнь",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a1aa2522-b1d7-46ec-82d6-2ef523565c9f",
+      "eng": "rest",
+      "ru": "остальное, остаток",
+      "engExample": "The rest of my life",
+      "ruExample": "Остаток моей жизни",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c824eb81-d6bd-4ae8-b131-91bcb6f0375a",
+      "eng": "plunged",
+      "ru": "погрузился",
+      "engExample": "He plunged in to the water",
+      "ruExample": "Прыгнул/погрузился в воду",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e855b55f-d586-4797-933e-5ffdedbee658",
+      "eng": "shore",
+      "ru": "берег",
+      "engExample": "He managed to get back to the shore",
+      "ruExample": "Ему удалось/Он смог вернуться на берег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4107a2b6-a15d-4fe7-bc0a-dfd8325576af",
+      "eng": "managed",
+      "ru": "удалось",
+      "engExample": "He managed to get back to the shore",
+      "ruExample": "Ему удалось/Он смог вернуться на берег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2e69e935-4637-41b7-b68b-ce6d973790f5",
+      "eng": "exhausted",
+      "ru": "измученный",
+      "engExample": "Exhausted and discouraged, he managed to get back to the shore",
+      "ruExample": "Измученный и обескураженный он смог вернуться на берег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1db797f3-4866-4104-ad8e-d59a7e1ffd8f",
+      "eng": "discouraged",
+      "ru": "обескураженный",
+      "engExample": "Exhausted and discouraged, he managed to get back to the shore",
+      "ruExample": "Измученный и обескураженный он смог вернуться на берег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "74dd41a5-6d97-4d60-b6e4-0bb4cbff3104",
+      "eng": "breath",
+      "ru": "дыхание",
+      "engExample": "His breath",
+      "ruExample": "Его дыхание",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a6258395-5aa3-42b9-9178-e36be5cb2b3d",
+      "eng": "almost",
+      "ru": "почти",
+      "engExample": "You almost got me killed",
+      "ruExample": "Ты чуть не убил меня",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "86e2ace2-c1d1-468c-b087-fe90e8312421",
+      "eng": "shout",
+      "ru": "кричать",
+      "engExample": "The young man shouted in anger",
+      "ruExample": "Закричал молодой человек в гневе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3e6b85be-c449-4c40-8747-c60b96686615",
+      "eng": "shouted",
+      "ru": "кричал",
+      "engExample": "The young man shouted in anger",
+      "ruExample": "Закричал молодой человек в гневе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "fb230291-fc31-4ff7-be23-123affad2a86",
+      "eng": "calm",
+      "ru": "спокойствие",
+      "engExample": "Finally they calmed down",
+      "ruExample": "Наконец они успокоились",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "22d008ac-9adf-469a-bbe9-37b28cdf9e55",
+      "eng": "calmed",
+      "ru": "успокоился",
+      "engExample": "Finally they calmed down",
+      "ruExample": "Наконец они успокоились",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1f1b82c8-ed61-4324-b862-341cc465e6ad",
+      "eng": "calmly",
+      "ru": "спокойно, хладнокровно",
+      "engExample": "Said the man calmly",
+      "ruExample": "Сказал мужчина спокойно",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5958553b-031c-4326-beaf-777c9e06cfa9",
+      "eng": "realize",
+      "ru": "понимать, осозновать",
+      "engExample": "Man realized his mistake",
+      "ruExample": "Мужчина осознал свою ошибку",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "86eb0cea-641e-40d7-90c7-45b8e5a514eb",
+      "eng": "mistake",
+      "ru": "ошибка",
+      "engExample": "Man realized his mistake",
+      "ruExample": "Мужчина осознал свою ошибку",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "edae7672-896d-4fe3-88c3-4001eef44c91",
+      "eng": "apologize",
+      "ru": "извиняться",
+      "engExample": "Man realized his mistake and apologized to the master",
+      "ruExample": "Мужчина осознал свою ошибку и извинился перед учителем",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0e308a3c-0256-4360-90c8-1cc2f4b8f051",
+      "eng": "followed advice",
+      "ru": "последовал совету",
+      "engExample": "He followed the master's advice",
+      "ruExample": "Он последовал совету учителя",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3f44c159-6369-4bac-b275-80e46aa38878",
+      "eng": "noticed",
+      "ru": "заметил",
+      "engExample": "He noticed",
+      "ruExample": "Он заметил",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ae4b5c62-b8e3-4232-b4fd-d361cc84cb9d",
+      "eng": "wonder",
+      "ru": "удивление, изумление",
+      "engExample": "He wondered why he didn't notice anyone",
+      "ruExample": "Он недоумевал, почему он незаметил не чего",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "936c8899-806a-4d31-9394-cbe64c05eafd",
+      "eng": "gentle",
+      "ru": "нежный, мягкийб легкий",
+      "engExample": "He felt the gentle breeze",
+      "ruExample": "Он почуствовал легкий ветерок.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c516d10e-eac9-4e60-9fca-6d3eca27af1d",
+      "eng": "experience",
+      "ru": "опыт",
+      "engExample": "Your experience",
+      "ruExample": "Ваш опыт",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "21e1a702-f831-4c83-a14a-9b531b0a1f9a",
+      "eng": "journey",
+      "ru": "путешествие",
+      "engExample": "But the journey was too long",
+      "ruExample": "Но путь был слишком долгий",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "fe87314f-f966-4dee-a190-0a36451fd6fe",
+      "eng": "decide",
+      "ru": "решать",
+      "engExample": "He decided to do something about it",
+      "ruExample": "Он решил что-то с этим сделать",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "be8e1b2f-aea1-4c07-8d01-125ab273fa4d",
+      "eng": "simple",
+      "ru": "простой, просто",
+      "engExample": "Simple life",
+      "ruExample": "Простая жизнь",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "191cba57-3396-43f3-bbe4-49694fd0d822",
+      "eng": "picked up",
+      "ru": "взял",
+      "engExample": "Picked up his simple tools",
+      "ruExample": "Взял свои простые инструменты",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ee7f44b2-a1f9-43b5-9217-ea2ff4ad323d",
+      "eng": "chipping away",
+      "ru": "откалывание",
+      "engExample": "He walked to the mountain and started chipping away at it",
+      "ruExample": "Он пошел к горе и начал ее откалывать.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "dfcfbb5b-4c07-495d-97b1-e1c7ad706ece",
+      "eng": "passed",
+      "ru": "прошедший",
+      "engExample": "Years passed",
+      "ruExample": "Прошли годы",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d18cc954-b157-4af8-aff0-34a38ce72909",
+      "eng": "determination",
+      "ru": "решимость",
+      "engExample": "His determination didn't change",
+      "ruExample": "Его решимость не изменилась",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "312d7696-e724-471a-bb45-a7f56287ed3f",
+      "eng": "joy",
+      "ru": "радость",
+      "engExample": "His heart filled with joy",
+      "ruExample": "Его сердце наполнилось радостью",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "caad7528-7d0e-4e7b-bcf2-d760cb0c34fd",
+      "eng": "become",
+      "ru": "становиться",
+      "engExample": "The path became a lifeline for his village",
+      "ruExample": "Дорога стала спасательным кругом для его деревни",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "da2d6ee4-282e-4ec0-b981-766e61b4bc36",
+      "eng": "it took",
+      "ru": "потребовалось",
+      "engExample": "It took a more time",
+      "ruExample": "Это заняло больше времени",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f617dffc-9c84-457f-a66c-9a0ba2d4cb52",
+      "eng": "reduce",
+      "ru": "уменьшать",
+      "engExample": "It reduced the travel distance from 55km to 15km",
+      "ruExample": "Это сократило расстояние поездки с 55 км до 15 км.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1eb92c3b-b944-4240-9359-2a1bf9c9af58",
+      "eng": "opportunity",
+      "ru": "возможность",
+      "engExample": "The new job is an incredible opportunity",
+      "ruExample": "Новая работа – невероятная возможность",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b8b3daba-c6db-4374-bbda-2ff90d0dc7de",
+      "eng": "incredible",
+      "ru": "невероятно",
+      "engExample": "The new job is an incredible opportunity",
+      "ruExample": "Новая работа – невероятная возможность",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a508cdd5-b9f4-459a-b5cf-b4b89585c9b6",
+      "eng": "incredible feat",
+      "ru": "невероятный подвиг",
+      "engExample": "It was an incredible feat",
+      "ruExample": "Это был невероятный подвиг",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d5eeff8c-3cdb-4c64-9444-843677406576",
+      "eng": "i guess",
+      "ru": "я пологаю, я так думаю",
+      "engExample": "I guess will never know",
+      "ruExample": "Я думаю, никогда не узнаю",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1d2c33c3-23ab-4106-be82-6d3370097fea",
+      "eng": "basically ",
+      "ru": "в основном, по сути",
+      "engExample": "Basically, I'm just lazy",
+      "ruExample": "По правде говоря, мне просто лень",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bb7992b5-cb8f-4028-85a1-a70b04f43b16",
+      "eng": "clothes fit",
+      "ru": "одежда сидит, одежда подходит",
+      "engExample": "My clothes fit",
+      "ruExample": "Моя одежда на мне сидит, Моя одежда мне подходит",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "fb2f8ced-685a-4e79-9ba5-c1703eeeebe9",
+      "eng": "point finger",
+      "ru": "показывать пальцем",
+      "engExample": "I wasn't pointing fingers at anyone",
+      "ruExample": "Я не показывал не накого пальцами",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "43056283-267b-4ac0-b14f-030b0f2ffae2",
+      "eng": "terrified",
+      "ru": "испуганный",
+      "engExample": "I was terrified",
+      "ruExample": "Я был напуган",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b2b9b005-af7b-4b3d-a0b6-f43d0ca6c508",
+      "eng": "even",
+      "ru": "даже",
+      "engExample": "I haven't been to class even once",
+      "ruExample": "Я не был на уроке ни разу",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ab2f9117-4cf2-4d28-8e01-684760dba7f3",
+      "eng": "late",
+      "ru": "опаздывать, поздно",
+      "engExample": "I wasn't late",
+      "ruExample": "Я не опаздывал",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4e7eb548-ffff-4397-8fca-d07b1c03f2db",
+      "eng": "during",
+      "ru": "в течение, во время",
+      "engExample": "During the presentation",
+      "ruExample": "Во время презентации",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2a84ef57-de63-4708-9142-8460e66deef2",
+      "eng": "paid attention",
+      "ru": "быть внимательным, обращать внимание",
+      "engExample": "I paid attention during the lectures",
+      "ruExample": "Я был внимательным на лекциях",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1a0c9e09-c0ae-4cbb-9444-6ade75b0426c",
+      "eng": "explain",
+      "ru": "объяснять",
+      "engExample": "How do I even explain this situation to them?",
+      "ruExample": "Как мне вообще объяснить им эту ситуацию?",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d46e8369-cc2a-4fd8-928c-b82ca4050ef4",
+      "eng": "embarrassed",
+      "ru": "смущенный",
+      "engExample": "I felt so embarrassed",
+      "ruExample": "Я чуствовал себя смущенным, Мне было стыдно",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "66e5beb9-358f-471d-ba37-dde76c93f383",
+      "eng": "sweat",
+      "ru": "пот",
+      "engExample": "I woke up in a cold sweat",
+      "ruExample": "Я проснулся в холодном поту",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2857c9fa-c300-48af-bb79-a28e28ed712a",
+      "eng": "beating",
+      "ru": "биение",
+      "engExample": "My heart was beating fast",
+      "ruExample": "Мое сердце билось быстро",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9a229f87-9532-4294-9118-a155a55a812e",
+      "eng": "graduated",
+      "ru": "закончил",
+      "engExample": "I graduated over 20 year ago",
+      "ruExample": "Я закончил более 20 лет назад",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "624f81b4-7aad-4558-b9c8-7ff391f205f0",
+      "eng": "sigh",
+      "ru": "вздох",
+      "engExample": "I sighed with relief",
+      "ruExample": "Я вздохнул с облегчением",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c27ac824-fc1f-4060-bd41-e3e09050348c",
+      "eng": "relief",
+      "ru": "облегчение",
+      "engExample": "I sighed with relief",
+      "ruExample": "Я вздохнул с облегчением",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "69b0c4cb-0c27-41b1-88b9-b9ce25117cdd",
+      "eng": "would like",
+      "ru": "хотел бы",
+      "engExample": "I would like to go with your",
+      "ruExample": "Я хотел бы пойти с тобой",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5815f207-60dd-40eb-abbf-b99a53b265db",
+      "eng": "would be",
+      "ru": "было бы",
+      "engExample": "It would be nice to move",
+      "ruExample": "Было бы здорово переехать",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e3001092-d7cd-4753-82ea-cc7906a40561",
+      "eng": "trick",
+      "ru": "обманывать",
+      "engExample": "I tricked you, I trick you",
+      "ruExample": "Я обманул тебя, Я тебя обманываю",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "56dd7a8a-2a95-451e-a2d1-af5c7ff62b3b",
+      "eng": "shaken",
+      "ru": "потрясенный",
+      "engExample": "Still a little shaken",
+      "ruExample": "Все еще немного потрясен",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "08d94ca5-96e1-461b-ad02-2e8f87b259b4",
+      "eng": "as usual",
+      "ru": "как обычно",
+      "engExample": "As usual, some days are excluded due to significant changes in conversions",
+      "ruExample": "Как обычно, некоторые дни исключены из-за значительных изменений в конверсиях.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6a450560-514f-422f-b185-f465d3a7cfbc",
+      "eng": "clever",
+      "ru": "умный",
+      "engExample": "Clever dog",
+      "ruExample": "Умная собака",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3e18aa3c-4f2f-43db-a04e-fe8a80f378e4",
+      "eng": "got close",
+      "ru": "приблизился",
+      "engExample": "The lion got close to the dog",
+      "ruExample": "Лев приблизился к собаке",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "dfb5e44a-076e-4422-94d4-45f45342d92e",
+      "eng": "hear",
+      "ru": "слышать, услышать",
+      "engExample": "Hearing his brothers, he shook his head ",
+      "ruExample": "Услышав своих братьев, он покачал головой",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0c8ab85d-2771-4b51-8afe-387d31da117e",
+      "eng": "heard",
+      "ru": "слышал",
+      "engExample": "The lion heard the dog and quickly stopped",
+      "ruExample": "Лев услышал собаку и быстро остановился",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "044dad88-61af-4ff8-a513-a7c2723f61d4",
+      "eng": "tougher",
+      "ru": "жестче, крепче",
+      "engExample": "This guy is tougher than he looks",
+      "ruExample": "Этот парень крепче, чем кажется",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d6257a92-4c8e-491d-bb4d-cb522baf9608",
+      "eng": "leave alone",
+      "ru": "оставь в покое",
+      "engExample": "I better leave him alone",
+      "ruExample": "Я лучше оставлю его в покое",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9ef86a75-c27f-4b8e-b4d4-304a3e3d4884",
+      "eng": "happened",
+      "ru": "случилось",
+      "engExample": "She saw everything the happened",
+      "ruExample": "Она видела все, что произошло",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c3b7ef34-7eab-4f3f-84b4-2a19224e68d3",
+      "eng": "enraged",
+      "ru": "разгневанный",
+      "engExample": "The lion was enraged",
+      "ruExample": "Лев был в ярости",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "08b34249-7945-4e2f-bd8c-e44a482d87ee",
+      "eng": "liar",
+      "ru": "лжец",
+      "engExample": "He was liar",
+      "ruExample": "Он был лжецом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1800b895-b647-47c4-96f8-9f7792088ee5",
+      "eng": "together",
+      "ru": "вместе, сообща",
+      "engExample": "Together they rushed back to the dog",
+      "ruExample": "Вместе они бросились обратно к собаке",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "da412be8-6054-4f48-97a8-421424e38b83",
+      "eng": "let's listen",
+      "ru": "давайте послушаем",
+      "engExample": "Now let's listen to the story without translation",
+      "ruExample": "Сейчас послушаем историю без перевода",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "24f5f701-13bf-4586-ba2b-40fe46780522",
+      "eng": "enjoy",
+      "ru": "наслаждаться",
+      "engExample": "Do you enjoy your job?",
+      "ruExample": "Тебе нравится твоя работа?",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "52617d45-913f-4bc7-b975-1fdd35376fbc",
+      "eng": "might",
+      "ru": "можно, возможно",
+      "engExample": "I know it might not be easy",
+      "ruExample": "Я знаю, что это может быть нелегко, Я знаю это возможно будет не легко",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7f1e59df-ff6e-41d3-bf41-45df2a11155d",
+      "eng": "difficult",
+      "ru": "трудный",
+      "engExample": "It might be difficult to study and work",
+      "ruExample": "Возможно, будет сложно учиться и работать.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "fdd1f50f-a4a5-451b-b3b4-1c01324301b6",
+      "eng": "also",
+      "ru": "также",
+      "engExample": "I can also learn to create physical products",
+      "ruExample": "Я также могу научиться создавать физические продукты",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "26b6300e-dad6-468e-b92e-52722255a015",
+      "eng": "earn",
+      "ru": "зарабатывать",
+      "engExample": "How to earn money",
+      "ruExample": "Как заработать деньги",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0b5a9fea-bae5-4164-a04a-bb8d1575b40d",
+      "eng": "expected",
+      "ru": "ожидаемый",
+      "engExample": "Expected result",
+      "ruExample": "Ожидаемый результат",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b8a534c6-adae-41c9-894d-2f4647b3b369",
+      "eng": "everything",
+      "ru": "все",
+      "engExample": "If everything goes according to plan",
+      "ruExample": "Если все пойдет соглсно плану, Если все пойдет по плану",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "23bec7cd-06bc-4396-a002-a71495936b91",
+      "eng": "according",
+      "ru": "согласно, следовательно",
+      "engExample": "Cook rice according to the instructions",
+      "ruExample": "Рис отварить согласно инструкции.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "39af5ed6-14c4-494c-aad1-41d1aa3c7a57",
+      "eng": "tough",
+      "ru": "жесткий",
+      "engExample": "We have a really tough schedule",
+      "ruExample": "У нас очень жесткий график",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0b8afe65-4a2b-4c64-bd4c-e7680cce01a4",
+      "eng": "rework",
+      "ru": "переделка",
+      "engExample": "Then will have time to rework the statistics",
+      "ruExample": "Тогда будет время переработать статистику.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "696f3cb1-1fc9-4ee0-beb1-bcb2f2fcda41",
+      "eng": "again",
+      "ru": "снова",
+      "engExample": "Hi. Kate here again",
+      "ruExample": "Привет. Кейт снова здесь",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "36941beb-0599-407b-bcb8-f49a15421d88",
+      "eng": "rewarding",
+      "ru": "вознаграждение, стоящий",
+      "engExample": "It is challenging but rewarding",
+      "ruExample": "Это сложно, но полезно",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6fd61a1f-d831-42f4-8892-7f6f456d5f31",
+      "eng": "guessing",
+      "ru": "угадывание",
+      "engExample": "I am guessing that's because harvest comes earlier here",
+      "ruExample": "Я предполагаю, что это потому, что здесь раньше собирают урожай.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5f6c972b-38af-4802-b09b-454b8d39a9cd",
+      "eng": "harvest",
+      "ru": "урожай",
+      "engExample": "I am guessing that's because harvest comes earlier here",
+      "ruExample": "Я предполагаю, что это потому, что здесь раньше собирают урожай.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ae2b004d-9e0e-46da-bbf2-add27ff6ceb1",
+      "eng": "earlier",
+      "ru": "ранее",
+      "engExample": "I am guessing that's because harvest comes earlier here",
+      "ruExample": "Я предполагаю, что это потому, что здесь раньше собирают урожай.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7b893453-9c09-44cd-bfda-08e4b9d63286",
+      "eng": "whole",
+      "ru": "весь, целый",
+      "engExample": "Take whole week",
+      "ruExample": "Возьми целую неделю",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6e457ee1-1dab-4744-8e3b-eab450f8f158",
+      "eng": "relatives",
+      "ru": "родственники",
+      "engExample": "Visit their relatives",
+      "ruExample": "Навестить своих родственников",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "96061e7c-47e7-4c9b-8f02-a4945a75d9af",
+      "eng": "expensive",
+      "ru": "дорогой, дорого",
+      "engExample": "It can very expensive to fly on relatives",
+      "ruExample": "Лететь к родственникам может очень дорого",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8debc614-ac7c-45f6-98e3-a7574c7a48e4",
+      "eng": "cheap",
+      "ru": "дешевый",
+      "engExample": "But i was lucky to get ticket a cheap direct flights",
+      "ruExample": "Но мне посчастливилось купить билет на дешевый прямой рейс.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5f96b7db-3bf7-4a1f-988b-1ed24d731eb5",
+      "eng": "prefer",
+      "ru": "предпочитать",
+      "engExample": "I prefer flying",
+      "ruExample": "Я предпочитаю летать",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1d86918a-b7ef-4452-a821-4e370dcda7ea",
+      "eng": "still",
+      "ru": "еще, все еще",
+      "engExample": "I still need to pack my bags",
+      "ruExample": "Мне еще нужно собрать чемоданы",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "da25314b-aa23-4836-9439-be7bcc57bce5",
+      "eng": "trip",
+      "ru": "путешествие, поездка",
+      "engExample": "I still need to pack my bags and get ready for the trip",
+      "ruExample": "Мне еще нужно собрать чемоданы и подготовиться к поездке.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a7e5a196-69e9-4016-b0dc-509e982d1be1",
+      "eng": "solve",
+      "ru": "решать",
+      "engExample": "Cannot solve problem",
+      "ruExample": "Не могу решить проблему",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b847a288-0776-4a32-b1a2-3dc0b5a98ade",
+      "eng": "solution",
+      "ru": "решение",
+      "engExample": "This solution should  enable us to address existing problems",
+      "ruExample": "Это решение должно позволить нам решить существующие проблемы.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b0698678-1a5a-452e-81f2-60b4089ce0ae",
+      "eng": "approaches",
+      "ru": "подходы",
+      "engExample": "Without changing our development approaches",
+      "ruExample": "Без изменений наших подходов к разаработке",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "27dcc06f-23a3-42f9-a1a7-058f0890eae5",
+      "eng": "unaware",
+      "ru": "не подозревающий, не знающий",
+      "engExample": "The frontend is unaware of the data type returned by the API.",
+      "ruExample": "Фронтенду неизвестен тип данных, возвращаемый API.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "be394037-5c64-4131-8d1e-056e72264fbc",
+      "eng": "corner",
+      "ru": "угол",
+      "engExample": "Around corner",
+      "ruExample": "За углом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d83859ad-996b-4fa4-9bdd-44b1de6430a2",
+      "eng": "until",
+      "ru": "до",
+      "engExample": "We don't usually get home until five o'clock",
+      "ruExample": "Обычно мы не приходим домой раньше пяти часов.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bfee9613-c975-4a63-b1b5-a138bbb705cc",
+      "eng": "boring",
+      "ru": "скучный",
+      "engExample": "I've got a boring job in an office",
+      "ruExample": "У меня скучная работа в офисе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "dcef19a3-3726-4812-a7c1-4d6e68897e10",
+      "eng": "often",
+      "ru": "часто",
+      "engExample": "How often do you have your hair cut?",
+      "ruExample": "Как часто ты стригешься?",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e371d4d0-ad21-4fcc-93de-7ff6035776cf",
+      "eng": "purchase",
+      "ru": "покупка, закупка, приобритение",
+      "engExample": "Problem with purchase additional IRS",
+      "ruExample": "Проблема с покупкой дополнительного IRS",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7fb1b263-0dfe-4534-81f3-25efdbbaac66",
+      "eng": "unexpected",
+      "ru": "непредвиденный, неожиданыйб нежданный",
+      "engExample": "Unexpected guest",
+      "ruExample": "Нежданный гость",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b57c6f7e-dc49-4238-9cfd-cb946ca67912",
+      "eng": "bath",
+      "ru": "ванна",
+      "engExample": "I decided to take a bath",
+      "ruExample": "Я решил принять ванну",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3aace9f8-6917-4c88-8082-e64b5b1bc94d",
+      "eng": "evening",
+      "ru": "вечер",
+      "engExample": "I decided evening to take a bath",
+      "ruExample": "Я решил вечером принять ванну",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "45b27d7d-32f8-4f6f-bf42-43307a637446",
+      "eng": "doorbell",
+      "ru": "дверной звонок",
+      "engExample": "Doorbell rang",
+      "ruExample": "Раздался дверной звонок",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ead6e7a0-ee39-48b8-9615-03ba042b4faa",
+      "eng": "living room",
+      "ru": "гостиная",
+      "engExample": "We sat down to talk in the living room",
+      "ruExample": "Мы сели поговорить в гостиной",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7dbea00c-2cb4-43ee-8f36-c2db6653f7a1",
+      "eng": "completely",
+      "ru": "полностью, совершенно",
+      "engExample": "I completely agree",
+      "ruExample": "Я полностью согласен",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e6dd7d8a-e939-4dcc-a3cc-d13be73c83c4",
+      "eng": "hallway",
+      "ru": "коридор, прихожая",
+      "engExample": "The water was in the hallway",
+      "ruExample": "Вода была в коридоре",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1fa7a7a4-5d42-4c1f-ae68-bfec4a0889aa",
+      "eng": "neighbor",
+      "ru": "сосед",
+      "engExample": "The neighbor below us",
+      "ruExample": "Сосед под нами",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "56d8e100-3d46-47e6-81eb-2929964415b3",
+      "eng": "below",
+      "ru": "под",
+      "engExample": "The neighbor below us",
+      "ruExample": "Сосед под нами",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "501d9c6d-e1df-4b18-afe2-2b49e2030341",
+      "eng": "pot",
+      "ru": "кострюля, горшек",
+      "engExample": "We used pots, pans, cups, towels",
+      "ruExample": "Мы использовали кастрюли, сковородки, чашки, полотенца.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2fc07939-8639-4408-9e8f-ab73b248ebb1",
+      "eng": "pan",
+      "ru": "сковорода",
+      "engExample": "We used pots, pans, cups, towels",
+      "ruExample": "Мы использовали кастрюли, сковородки, чашки, полотенца.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0717a0ba-0551-407f-a85e-80eda0f1fb6e",
+      "eng": "cup",
+      "ru": "чашка",
+      "engExample": "We used pots, pans, cups, towels",
+      "ruExample": "Мы использовали кастрюли, сковородки, чашки, полотенца.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "32a97bbc-2955-43e5-b697-a5bbee637975",
+      "eng": "towel",
+      "ru": "полотенце",
+      "engExample": "We used pots, pans, cups, towels",
+      "ruExample": "Мы использовали кастрюли, сковородки, чашки, полотенца.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "467e1f5d-6484-4f58-98ad-ed545f3867a9",
+      "eng": "soak up",
+      "ru": "впитывать",
+      "engExample": "Anything to hold and soak up water",
+      "ruExample": "Все, что удерживает и впитывает воду",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b941fe34-e560-4418-b769-270df3db9d25",
+      "eng": "anything",
+      "ru": "что угодно, что либо, что нибудь",
+      "engExample": "I lost anything in the crash",
+      "ruExample": "Я что-то потерял в результате аварии",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c67ae3d7-0f12-4719-a9f4-6bd8f949f7f4",
+      "eng": "everything",
+      "ru": "все",
+      "engExample": "I lost everything in the crash",
+      "ruExample": "Я потерял все в аварии",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7b9879a2-ef7e-4080-ba9a-7804def25517",
+      "eng": "no way",
+      "ru": "ни за что",
+      "engExample": "No way will I build this tower",
+      "ruExample": "Я ни за что не построю эту башню",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9a4a20f7-b3b7-41ef-9161-06e7560eb483",
+      "eng": "early",
+      "ru": "рано",
+      "engExample": "Winter comes early here",
+      "ruExample": "Зима здесь приходит рано",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e852dcd0-1aa8-4d7f-a970-8c9737af64af",
+      "eng": "few",
+      "ru": "несколько, немного",
+      "engExample": "Few month ago",
+      "ruExample": "Несколько месяцев назад",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "24e23bb4-1796-43a0-85f8-e11447a84ff8",
+      "eng": "she turned four",
+      "ru": "ей исполнилось четыре",
+      "engExample": "She turned four, just few days ago",
+      "ruExample": "Ей исполнилось четыре года всего несколько дней назад",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d264f769-bbf7-4de5-a434-8e4161251c91",
+      "eng": "careful",
+      "ru": "осторожный, внимательный",
+      "engExample": "I should be careful",
+      "ruExample": "Я должен быть осторожным, Мне следует быть осторожным",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a1524a42-6084-4f25-965c-3c9c7ba5288e",
+      "eng": "turn",
+      "ru": "повернуть",
+      "engExample": "Turn off",
+      "ruExample": "Выключить",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "217648c3-22f0-4c91-b04e-ed242ceb3bdf",
+      "eng": "turn onto",
+      "ru": "повернуть на",
+      "engExample": "We were turning onto a small road",
+      "ruExample": "Мы свернули на небольшую дорогу",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e85c95c8-9d90-4d64-af5c-ec60d8ebd9a2",
+      "eng": "spin",
+      "ru": "вращаться",
+      "engExample": "As I was making the turn the car started to spin",
+      "ruExample": "Когда я поворачивал, машина начала крутиться.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7b56f7c9-75e8-4054-b4b6-f9aaaa6107a0",
+      "eng": "side",
+      "ru": "сторона, бок, край, борт",
+      "engExample": "A car parked on the side of the road",
+      "ruExample": "Автомобиль, припаркованный на обочине дороги",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4a387d59-f1cd-4a3f-96d7-5c161680c855",
+      "eng": "suddenly",
+      "ru": "внезапно, вдруг, скоропостижно",
+      "engExample": "Suddenly, our car stopped",
+      "ruExample": "Внезапно наша машина остановилась",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f5ea035e-b408-4bf2-8355-dee30150e875",
+      "eng": "hit",
+      "ru": "ударять",
+      "engExample": "We didn't hit the car",
+      "ruExample": "Мы не врезались в машину",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b85e1287-b79f-4d6c-be67-71db9042c03c",
+      "eng": "avoid",
+      "ru": "избегать",
+      "engExample": "Accident was avoided",
+      "ruExample": "Аварию удалось предотвратить",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3e9d0713-7c86-4b79-8c22-7c03c1004f06",
+      "eng": "worn",
+      "ru": "изношенный",
+      "engExample": "The car had worn tires",
+      "ruExample": "У автомобиля были изношенные шины",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "36bede2a-603a-4e9a-96f3-06ef402c5470",
+      "eng": "redundant",
+      "ru": "избыточный",
+      "engExample": "It's looks redundant in our workflow.",
+      "ruExample": "В нашем рабочем процессе это выглядит излишним.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "dfaebfa0-17da-41a6-9012-6f5c26e38e63",
+      "eng": "snorkeling",
+      "ru": "подводное плавание",
+      "engExample": "Also they love snorkeling",
+      "ruExample": "Еще они любят подводное плавание",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0655cd4d-9e78-4602-ae0f-23e7cecd8f6e",
+      "eng": "splashing",
+      "ru": "брызги",
+      "engExample": "They love splashing",
+      "ruExample": "Они любят плескаться",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7be02e85-b7d8-4db5-aabd-d463e9a4c489",
+      "eng": "rudder",
+      "ru": "руль направления (лодки или корабля, но не машины)",
+      "engExample": "And you have to steer it with the rudder ",
+      "ruExample": "И вам придется управлять им с помощью руля",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "de8ae735-33ee-4000-b633-c11946307e74",
+      "eng": "steer",
+      "ru": "управлять, направлять",
+      "engExample": "And you have to steer it with the rudder ",
+      "ruExample": "И вам придется управлять им с помощью руля",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "493eb879-b060-4825-a297-e285da91615a",
+      "eng": "went",
+      "ru": "шел",
+      "engExample": "It was late afternoon when we went",
+      "ruExample": "Был уже поздний вечер, когда мы пошли",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3b287cba-12e3-4669-961d-7c276f459b7e",
+      "eng": "managed",
+      "ru": "удалось",
+      "engExample": "We managed to take some to nice pictures",
+      "ruExample": "Нам удалось сделать несколько хороших фотографий",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3697f561-93ad-4b94-8a4d-a39a7daa7eab",
+      "eng": "worse",
+      "ru": "хуже",
+      "engExample": "To make things worse waves grew ",
+      "ruExample": "Что еще хуже, волны росли",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "85713d98-2a08-4ad5-8497-11865dbc78a8",
+      "eng": "grow",
+      "ru": "расти",
+      "engExample": "To make things worse waves grew ",
+      "ruExample": "Что еще хуже, волны росли",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "949e77aa-8a85-4714-8367-b78e0d2e5ab6",
+      "eng": "further",
+      "ru": "дальше",
+      "engExample": "We pushed further and further away from the shore",
+      "ruExample": "Мы отодвигались все дальше и дальше от берега",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9a85f546-f67d-4c0d-8eef-1eb92102f4cf",
+      "eng": "near",
+      "ru": "около, возле",
+      "engExample": "There were no boats near us",
+      "ruExample": "Рядом с нами не было лодок",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1b704b74-67a9-4c80-9036-e82a3575ccdd",
+      "eng": "desperate",
+      "ru": "отчаянный, безнадежный",
+      "engExample": "We were in a desperate situation",
+      "ruExample": "Мы были в безнадежной ситуации",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e078e275-4822-44e1-bad7-3765532b6143",
+      "eng": "consider",
+      "ru": "учитывать",
+      "engExample": "As we were considering our options",
+      "ruExample": "Пока мы рассматривали наши варианты",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "57d5b539-4683-407b-8dcc-3616d1b291ac",
+      "eng": "toward",
+      "ru": "в направлении, к ",
+      "engExample": "The motor boat moving toward us",
+      "ruExample": "Моторная лодка движется к нам",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "213b3923-8405-4c41-b8b4-23732a3ae7bc",
+      "eng": "explain",
+      "ru": "объяснять, разъяснять",
+      "engExample": "We tried to explain",
+      "ruExample": "Мы попытались объяснить",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f8c21733-9e24-4516-b2fa-f8ac72b9249c",
+      "eng": "gesturing",
+      "ru": "жестикулировать",
+      "engExample": "After some gesturing he understood",
+      "ruExample": "После некоторых жестов он понял",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "dd9baebe-ae77-4b01-b6fe-9c221ee2a67a",
+      "eng": "gesture",
+      "ru": "жест",
+      "engExample": "After some gesturing he understood",
+      "ruExample": "После некоторых жестов он понял",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d59499aa-f077-4483-b393-06b7d96e7c90",
+      "eng": "rope",
+      "ru": "веревка, канат, трос",
+      "engExample": "I threw a rope",
+      "ruExample": "Я бросил веревку",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3073996d-99da-4018-9ef1-6334a24cd904",
+      "eng": "throw",
+      "ru": "бросать",
+      "engExample": "I threw a rope",
+      "ruExample": "Я бросил веревку",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6f6da92f-50f4-48bd-8a71-f50310588244",
+      "eng": "certainly",
+      "ru": "конечно, безусловно",
+      "engExample": "The was certainly a trip, we will never forget",
+      "ruExample": "Это определенно была поездка, которую мы никогда не забудем.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7450104a-e825-4906-95e2-4fd180e9af0d",
+      "eng": "a brand new plane",
+      "ru": "совершенно новый самолет",
+      "engExample": "I were invited to fly in a brand new plane",
+      "ruExample": "Меня пригласили полететь на новеньком самолете",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7092f619-9f65-49a5-9dd6-3dda1935c816",
+      "eng": "receive",
+      "ru": "получать",
+      "engExample": "They received a warm welcome",
+      "ruExample": "Они получили теплый прием",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "96d8fb1f-704a-4ffe-89d4-519f24d6b8ec",
+      "eng": "warm",
+      "ru": "теплый",
+      "engExample": "Warm sun melted the snow",
+      "ruExample": "Теплое солнце растопило снег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "140da364-9faa-4d57-b5de-30ab2736e31c",
+      "eng": "a warm welcome",
+      "ru": "теплый прием",
+      "engExample": "They received a warm welcome",
+      "ruExample": "Они получили теплый прием",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e1cbff67-f719-49e4-bcd1-90db571aca88",
+      "eng": "crew",
+      "ru": "экипаж",
+      "engExample": "This is a friendly crew",
+      "ruExample": "Это дружный экипаж",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e746ba67-041e-4a78-a676-09c6dbfdbba3",
+      "eng": "rush",
+      "ru": "торопиться, бросаться",
+      "engExample": "They rushed to the exit",
+      "ruExample": "Они бросились к выходу",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "71af030e-94ad-4d2c-a946-3af8db354cd2",
+      "eng": "aisle",
+      "ru": "проход, ряд",
+      "engExample": "The crew was standing in the aisle speechless",
+      "ruExample": "Экипаж стоял в проходе, потеряв дар речи.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "653b46a7-a784-4612-83ab-107262c5d047",
+      "eng": "speechless",
+      "ru": "потерявший дар речи, немой,безмолвный",
+      "engExample": "The crew was standing in the aisle speechless",
+      "ruExample": "Экипаж стоял в проходе, потеряв дар речи.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a13527d9-2e74-455e-a700-d2efd01b0c4e",
+      "eng": "however",
+      "ru": "однако, впрочем",
+      "engExample": "One professor however remained calm",
+      "ruExample": "Однако один профессор сохранял спокойствие.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "93c02f20-5e41-41a0-9aba-107bc0bdef8f",
+      "eng": "remain",
+      "ru": "оставаться",
+      "engExample": "I remained calm",
+      "ruExample": "Я оставался спокойным",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "afa6af7c-17a1-462f-bb1b-7ef433883a5b",
+      "eng": "calm",
+      "ru": "спокойствие",
+      "engExample": "I remained calm",
+      "ruExample": "Я оставался спокойным",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6a08b1e4-1e55-401c-b661-99576d7e32fb",
+      "eng": "confidence",
+      "ru": "уверенность, доверие",
+      "engExample": "I have full confidence in my students",
+      "ruExample": "Я полностью доверяю своим ученикам",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e9d219bf-9ed6-48a9-869a-7d3dd6bc6182",
+      "eng": "forgetful",
+      "ru": "забывчивый, невнимательный",
+      "engExample": "Forgetful brothers",
+      "ruExample": "Забывчивые братья",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c85546cb-c684-4824-8ebc-94abcf6a8ed7",
+      "eng": "yell",
+      "ru": "кричать",
+      "engExample": "Yelled at me",
+      "ruExample": "Кричал на меня",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b1d63e9a-1c73-45d8-9783-d406b074eff4",
+      "eng": "downstairs",
+      "ru": "внизу",
+      "engExample": "Jack, who was downstairs, yelled back",
+      "ruExample": "Джек, который был внизу, крикнул в ответ.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f57efad6-b8b9-441c-a085-791d382466e9",
+      "eng": "meanwhile",
+      "ru": "тем временем",
+      "engExample": "Meanwhile, Jim was sitting at the kitchen",
+      "ruExample": "Тем временем Джим сидел на кухне.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "a5784835-bfa5-4953-ab2c-e0d7dd35ff8a",
+      "eng": "shook",
+      "ru": "встряхивать, качать",
+      "engExample": "Hearing his brothers, he shook his head ",
+      "ruExample": "Услышав своих братьев, он покачал головой",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "78c086aa-7994-4af1-bdee-7724ef29cb9a",
+      "eng": "hope",
+      "ru": "надеяться, надежда",
+      "engExample": "I hope I never get that forgetful, said Jim",
+      "ruExample": "«Надеюсь, я никогда не стану таким забывчивым», — сказал Джим.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0d62f86e-677f-4761-99da-03f11ec08c11",
+      "eng": "knock",
+      "ru": "стучать",
+      "engExample": "He knocked on the wooden table for good luck",
+      "ruExample": "Он постучал по деревянному столу на удачу.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "81218d81-0ed6-4072-b7b4-25e85a951dcc",
+      "eng": "purpose",
+      "ru": "цель",
+      "engExample": "Do you know what is the purpose",
+      "ruExample": "Знаешь ли ты, какова цель",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "aa48bd30-548a-4b19-af27-648fd375c485",
+      "eng": "apparently",
+      "ru": "видимо",
+      "engExample": "Apparently mobile applications use the same tpl.",
+      "ruExample": "Видимо мобильные приложения используют тот же tpl.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "23b82430-4c29-4618-b6a3-d3b776a204b6",
+      "eng": "displaying",
+      "ru": "показывать, демонстрировать",
+      "engExample": "This is an application for displaying promos",
+      "ruExample": "Это приложение для показа промо",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "eb683361-8d25-45f3-998f-7d8805448db4",
+      "eng": "which",
+      "ru": "который",
+      "engExample": "Which is defined in an open standard",
+      "ruExample": "Который определен в открытом стандарте",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d36c8aa7-0925-4300-886a-a024457099f8",
+      "eng": "better",
+      "ru": "лучше",
+      "engExample": "Understand the story better",
+      "ruExample": "Лучше понять расказ",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7ed33d68-70e5-41de-aeeb-608cb2c46557",
+      "eng": "applicable",
+      "ru": "применимый",
+      "engExample": "We need to know if this script is applicable for us or not",
+      "ruExample": "Нам нужно знать, применим ли этот скрипт для нас или нет.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "15fbe333-968f-466c-a509-18753942ba12",
+      "eng": "bring",
+      "ru": "приносить",
+      "engExample": "Don't bring a dictionary on your lesson",
+      "ruExample": "Не приносите словарь на урок",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bbbc58eb-06b4-45f7-a8f5-df0380665836",
+      "eng": "follow",
+      "ru": "следовать",
+      "engExample": "Follow him guys",
+      "ruExample": "Следуйте за ним, ребята",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1c579d53-9859-41ba-b4de-691755e3a76a",
+      "eng": "direction",
+      "ru": "направление",
+      "engExample": "Grandma's directions",
+      "ruExample": "Указания бабушки, Бабушкины указания.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "01066217-89c4-4bba-b3f7-de58994a541b",
+      "eng": "recently",
+      "ru": "недавно",
+      "engExample": "She recently moved to a new apartment",
+      "ruExample": "Недавно она переехала в новую квартиру",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "38097878-abf6-4482-9c72-2a7ac836f766",
+      "eng": "elbow",
+      "ru": "локоть",
+      "engExample": "Push button with your elbow",
+      "ruExample": "Нажми кнопку локтем",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b70056f6-febf-418c-99ef-4e1362c2dc6a",
+      "eng": "let",
+      "ru": "позволять, пускать",
+      "engExample": "I will let you in",
+      "ruExample": "Я впущу тебя",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ae21460a-9380-48af-9c69-b32e7ef6d71c",
+      "eng": "right there",
+      "ru": "прямо там",
+      "engExample": "Apartment will be right there",
+      "ruExample": "Квартира будет прямо там",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ae334d16-fc33-4ccd-be7b-9f3623998e94",
+      "eng": "grandson",
+      "ru": "внук",
+      "engExample": "It is easy said grandson",
+      "ruExample": "Это легко сказал внук",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f92352c5-2c78-4f75-aa6f-6e3cecc8444a",
+      "eng": "conversation",
+      "ru": "беседа",
+      "engExample": "Most important conversation questions",
+      "ruExample": "Самые важные вопросы для разговора",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bf8d838f-36a3-4ecc-9106-9bcf5801b8ce",
+      "eng": "daily life",
+      "ru": "ежедневная жизнь",
+      "engExample": "Daily life english conversation practice",
+      "ruExample": "Повседневная разговорная практика английского языка",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8b32fba6-c0bc-4408-9cb2-f69088e0e226",
+      "eng": "awesome",
+      "ru": "потрясающий, классно, здорово",
+      "engExample": "The band is truly awesome!",
+      "ruExample": "Группа действительно классная!",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "fc11a8e2-c142-47ca-8814-0adb53e551e9",
+      "eng": "influencing",
+      "ru": "влиять, оказывать влияние",
+      "engExample": "We don't count all the exports which is influencing the main metric",
+      "ruExample": "Мы не учитываем весь экспорт, что влияет на основной показатель.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1d5f5e5b-1455-4ef5-8bfb-3b7007f88d7a",
+      "eng": "promise",
+      "ru": "обещать, обещание",
+      "engExample": "I made a promise to my wife",
+      "ruExample": "Я дал обещание своей жене",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2202761a-6d8e-4921-8319-3f7dd83776fa",
+      "eng": "quarrel",
+      "ru": "ссориться, ссора",
+      "engExample": "Every time we quarrel the loser has to walk 5 kilometers",
+      "ruExample": "Каждый раз, когда мы ссоримся, проигравшему приходится пройти 5 километров.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "25cecfc4-aeaa-4114-aae4-72205892be48",
+      "eng": "loser",
+      "ru": "проигравший",
+      "engExample": "Every time we quarrel the loser has to walk 5 kilometers",
+      "ruExample": "Каждый раз, когда мы ссоримся, проигравшему приходится пройти 5 километров.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0721405b-d0f4-4bb6-96fe-1ce55585b59a",
+      "eng": "consider",
+      "ru": "учитывать, считать, расматривать",
+      "engExample": "Download button should be also considered as export",
+      "ruExample": "Кнопку загрузки также следует рассматривать как экспорт.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2041cd54-1510-44cf-afac-91087fe37e09",
+      "eng": "gift",
+      "ru": "подарок",
+      "engExample": "Our family always exchanged gifts for the New Year",
+      "ruExample": "Наша семья всегда обменивалась подарками на Новый год.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e1e349cc-ce84-4e9e-bffe-cb324977ef9b",
+      "eng": "exchange",
+      "ru": "обмен",
+      "engExample": "Our family always exchanged gifts for the New Year",
+      "ruExample": "Наша семья всегда обменивалась подарками на Новый год.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "01b3b675-d678-4085-a7d7-c185f325f247",
+      "eng": "whole",
+      "ru": "целый, целое, целный, все",
+      "engExample": "Whole family",
+      "ruExample": "Вся семья",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c74de67c-0c1d-4bc7-8e1d-2d06d1d8e1d9",
+      "eng": "care",
+      "ru": "забота",
+      "engExample": "From someone who loves and cares",
+      "ruExample": "От того, кто любит и заботится",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "218e4b51-7713-4f4f-a445-29a2efed0ee7",
+      "eng": "pass",
+      "ru": "передача, передать",
+      "engExample": "Mom passed it to Dad",
+      "ruExample": "Мама передала это папе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9f2b2ba6-19b6-4017-8656-239d4b2eb0d2",
+      "eng": "went",
+      "ru": "шел",
+      "engExample": "Gift went around from one person to the next, until it come back to mom",
+      "ruExample": "Подарок передавался от одного человека к другому, пока не вернулся к маме.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bec8ca83-03df-4365-b16f-868ec0b37285",
+      "eng": "until",
+      "ru": "до, до тех пор пока",
+      "engExample": "Gift went around from one person to the next, until it come back to mom",
+      "ruExample": "Подарок передавался от одного человека к другому, пока не вернулся к маме.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "158d694d-4567-4014-974c-9b39d9f3435c",
+      "eng": "hug",
+      "ru": "обнимать, обьятия",
+      "engExample": "Hug a person next to you",
+      "ruExample": "Обнимите человека рядом с вами",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "07791e94-9823-4b84-9980-e605ad313273",
+      "eng": "spread",
+      "ru": "распространение, распространять",
+      "engExample": "One by one, hugs and smiles spread around the room",
+      "ruExample": "Один за другим по комнате распространяются объятия и улыбки.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ef88e480-9fee-42f9-b75a-70442557419e",
+      "eng": "definitely",
+      "ru": "определенно, точно, не сомненно",
+      "engExample": "But it was definitely a special gift",
+      "ruExample": "Но это определенно был особенный подарок",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3a8a1585-060f-4727-8e92-9b9dd420d48c",
+      "eng": "early",
+      "ru": "рано, ранний",
+      "engExample": "We need to deploy small hotfix for MyDocs Frontend early.",
+      "ruExample": "Нам необходимо заранее установить небольшое исправление для MyDocs Frontend.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "9a863a5d-5332-4e00-97ac-7a65e9a08aa2",
+      "eng": "exclaim",
+      "ru": "восклицать",
+      "engExample": "Then I will have two toy trucks, he exclaimed",
+      "ruExample": "Тогда у меня будет два игрушечных грузовика, воскликнул он.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "82fde546-ed6a-4626-b191-7d8a1f92b0dd",
+      "eng": "adult",
+      "ru": "взрослый",
+      "engExample": "The adults could stay up late to celebrate the New Year.",
+      "ruExample": "Взрослые могли засидеться допоздна, чтобы встретить Новый год.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "37544e11-a828-49d7-bbdd-b5a40fe9b9e4",
+      "eng": "under",
+      "ru": "под",
+      "engExample": "Under your bed",
+      "ruExample": "Под твоей кроватью",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2129d1c8-9030-4a3d-8207-33fff4928868",
+      "eng": "revenge",
+      "ru": "месть, реванш",
+      "engExample": "This my revenge",
+      "ruExample": "Это моя месть",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b3f90956-de68-46b3-a46b-dfabb97a8eed",
+      "eng": "went",
+      "ru": "шел",
+      "engExample": "He went to bathroom",
+      "ruExample": "Он пошел в ванную",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "92cf75d5-aeaa-41a3-89ed-82b3fe71a185",
+      "eng": "trumpet",
+      "ru": "труба, трубить, трубач",
+      "engExample": "I play on trumpet",
+      "ruExample": "Я играю на трубе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c9608a6a-3654-49a0-9bfd-8d18fb21ecc0",
+      "eng": "glad",
+      "ru": "радостный, довольный",
+      "engExample": "I am so glad you like it",
+      "ruExample": "Я так рад, что тебе это нравится",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "bff70778-7a8b-408b-b43b-f40508e96750",
+      "eng": "late",
+      "ru": "поздно",
+      "engExample": "So the adults stay up late to celebrate New Year",
+      "ruExample": "Поэтому взрослые ложатся спать допоздна, чтобы встретить Новый год.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "75ef4285-a5dd-4a6a-906e-239d16cc07cc",
+      "eng": "deepest",
+      "ru": "самый глубокий",
+      "engExample": "Snow was deepest",
+      "ruExample": "Снег был самым глубоким",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "33f80f3a-b6ff-4aa1-9bd3-250d68f318a0",
+      "eng": "deep",
+      "ru": "глубокий, глубоко",
+      "engExample": "Snow was deepest",
+      "ruExample": "Снег был самым глубоким",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8537c5b3-ffb1-4317-a5a5-fec6920de590",
+      "eng": "covered",
+      "ru": "покрытый",
+      "engExample": "They were covered with snow",
+      "ruExample": "Они были покрыты снегом, Их засыпало снегом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c315e35d-e4da-4af5-8c61-d7b18e5d70ae",
+      "eng": "blizzard",
+      "ru": "метель",
+      "engExample": "One day after the blizzard, we woke up in the winter wonderland",
+      "ruExample": "Однажды после метели мы проснулись в зимней стране чудес.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3ccc50c9-bf9a-47c5-9d2f-dd8db8e29336",
+      "eng": "wonderland",
+      "ru": "волшебная страна",
+      "engExample": "One day after the blizzard, we woke up in the winter wonderland",
+      "ruExample": "Однажды после метели мы проснулись в зимней стране чудес.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c46a36c3-7176-4f99-b532-4c4c01a5b3b3",
+      "eng": "sparkly",
+      "ru": "блестящий",
+      "engExample": "Snow was sparkly and deep",
+      "ruExample": "Снег был блестящий и глубокий",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f7cf01d5-daa6-4988-aae5-863e68ceb7fe",
+      "eng": "rushed",
+      "ru": "бросился, побежал, поспешил",
+      "engExample": "Right after breakfast they rushed to the backyard",
+      "ruExample": "Сразу после завтрака они бросились на задний двор.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "53577b63-036b-4f8c-adc3-f08ec53a5ec1",
+      "eng": "several",
+      "ru": "несколько, некоторое количество",
+      "engExample": "They were outside for several hours",
+      "ruExample": "Они были на улице несколько часов",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "17babc36-cfd9-4bac-b76c-0e1b1bee3ddb",
+      "eng": "dig",
+      "ru": "рыть, копать",
+      "engExample": "It difficult to dig",
+      "ruExample": "Трудно копать",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "75fd2c08-22c7-4bbd-a099-a0c77d8eb191",
+      "eng": "dug",
+      "ru": "вырыл, выкопал",
+      "engExample": "They dug tunnels",
+      "ruExample": "Они рыли туннели",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1b7dba77-7045-4423-af35-f161c10478f6",
+      "eng": "dropping",
+      "ru": "падение, сброс",
+      "engExample": "Temperature was quickly dropping",
+      "ruExample": "Температура быстро падала",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "d6f2279e-82b5-4261-bc4a-dc7a9199cc81",
+      "eng": "look for",
+      "ru": "искать",
+      "engExample": "I went back to look for the other boots",
+      "ruExample": "Я пошел назад искать другие ботинки, Я вернулся искать другие ботинки",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "730a3d95-892c-44b1-8ba1-b2c24d31dee5",
+      "eng": "snowfall",
+      "ru": "снегопад",
+      "engExample": "And then another snowfall came",
+      "ruExample": "А потом пошел еще один снегопад",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7ceb724d-40ea-40a0-91f1-88b05aec6481",
+      "eng": "hope",
+      "ru": "надеяться, надежда",
+      "engExample": "We lost all hope",
+      "ruExample": "Мы потеряли всякую надежду",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8f79c58a-5b1b-45d3-8c7d-091d538a2655",
+      "eng": "melt",
+      "ru": "таять, растопить, плавиться",
+      "engExample": "Melted the snow",
+      "ruExample": "Растопил снег",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "be87713c-0dd0-47b3-842f-07f792455608",
+      "eng": "in",
+      "ru": "в, в пределах",
+      "engExample": "in the car",
+      "ruExample": "в машине",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e70b10a1-2526-4389-be4e-e7dcf976491e",
+      "eng": "at",
+      "ru": "в определенной точке, около ориентира",
+      "engExample": "at the table",
+      "ruExample": "за столом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f0f5821a-ac24-4697-9945-119eeeb5a80e",
+      "eng": "on",
+      "ru": "на поверхности",
+      "engExample": "on the table",
+      "ruExample": "на столе",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8f513467-684e-464c-8c02-3e1aa2906dae",
+      "eng": "above",
+      "ru": "выше уровня",
+      "engExample": "The note was put above the door",
+      "ruExample": "Объявление было приклеено над дверью.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0a8d95ea-6254-4443-952b-d66531069db9",
+      "eng": "below",
+      "ru": "ниже уровня",
+      "engExample": "As the sun went down below the horizon, the sky became pink",
+      "ruExample": "Когда солнце зашло за горизонт (опустилось ниже горизонта), небо стало розовым.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4cbfe54c-f6e1-4031-bfed-8a519e8a8b89",
+      "eng": "over",
+      "ru": "над",
+      "engExample": "He flew over the sea",
+      "ruExample": "Он летел над морем",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e7797fb7-492e-49ca-80f3-aa626831af54",
+      "eng": "under",
+      "ru": "под",
+      "engExample": "Under the stairs there was a storage closet",
+      "ruExample": "Под лестницей была кладовка.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "5a709f9b-4f63-4289-942e-a2e8b7162ef6",
+      "eng": "before",
+      "ru": "перед",
+      "engExample": "Everyone fell on the knees before the queen",
+      "ruExample": "Все упали на колени перед королевой.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "f47af8b2-71c6-4092-a7ba-b7d0227e81db",
+      "eng": "behind",
+      "ru": "за, позади",
+      "engExample": "The church is behind these trees",
+      "ruExample": "Церковь находится за этими деревьями.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3b2e5be2-925e-4e2a-83fd-3d0118657306",
+      "eng": "among",
+      "ru": "среди (среди множества объектов)",
+      "engExample": "There were lots of famous musicians among the guests",
+      "ruExample": "Среди гостей было много известных музыкантов.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0044f20c-6b8e-4625-bd2b-5dfee49ac7ad",
+      "eng": "between",
+      "ru": "между (между двумя объектами)",
+      "engExample": "The ship goes between the two islands",
+      "ruExample": "Корабль курсирует между двумя островами.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "54043850-9142-4476-b0e3-f1bfea61e879",
+      "eng": "by",
+      "ru": "у, рядом с",
+      "engExample": "We got a house by a river",
+      "ruExample": "Мы купили дом у реки",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "903ea2c7-e6f7-4ea6-97c4-079224c3c284",
+      "eng": "near",
+      "ru": "вблизи, около",
+      "engExample": "There is a rosebush near the fence",
+      "ruExample": "Около ограды растет розовый куст.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "8a06ddcb-5213-46a8-aebf-ef885b06374f",
+      "eng": "beside",
+      "ru": "рядом с, возле",
+      "engExample": "You shall stand beside me in the church",
+      "ruExample": "Ты будешь стоять рядом со мной в церкви.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "851a2eb3-c92e-4c9e-b9a1-00a459da2ad5",
+      "eng": "next to",
+      "ru": "рядом, вблизи",
+      "engExample": "I arranged that they should be seated next to each other",
+      "ruExample": "Я договорился, что их посадят рядом",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "572808fb-c3ea-4aa4-b506-e26e4c12fa6f",
+      "eng": "beyond",
+      "ru": "за, по ту сторону",
+      "engExample": "The valley where we live is beyond these mountains",
+      "ruExample": "Долина, в которой мы живем, расположена за этими горами.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "22ed02b1-3714-421a-8413-58708aa77d89",
+      "eng": "across",
+      "ru": "на другой стороне",
+      "engExample": "And then she saw one of her good friends across the street",
+      "ruExample": "И тут она увидела одну из своих старых подруг на другой стороне улицы.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "4037672e-3656-49cf-beeb-1afba2ec0d64",
+      "eng": "opposite",
+      "ru": "напротив",
+      "engExample": "They stood opposite each other",
+      "ruExample": "Они стояли напротив друг друга.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "06a73c7e-3121-4882-9437-3495cd3c3d3c",
+      "eng": "in front of",
+      "ru": "перед, напротив",
+      "engExample": "The car has stopped in front of the gate",
+      "ruExample": "Машина остановилась напротив ворот.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "7fe30b09-bc27-4fa7-a8fc-390eb49163c1",
+      "eng": "inside",
+      "ru": "внутри, в",
+      "engExample": "The car wasn't inside the garage",
+      "ruExample": "В гараже машины не было",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "3e2acadc-207d-4f7f-86d2-45c8ff90906e",
+      "eng": "outside",
+      "ru": "вне, за пределами",
+      "engExample": "Outside the building people are still waiting",
+      "ruExample": "Люди за стенами здания по-прежнему ждут.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "1322d8ed-713b-47d7-ab90-405b2683e703",
+      "eng": "to",
+      "ru": "к",
+      "engExample": "Please, come to me",
+      "ruExample": "Пожалуйста, подойди ко мне",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b44a92b7-2067-43da-8edd-9d371f689c01",
+      "eng": "towards",
+      "ru": "в направлении к",
+      "engExample": "Everybody's eyes were directed towards him",
+      "ruExample": "Взгляд каждого был обращен на него",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "edb8d5dc-674d-4c3e-b3fa-989965209f1d",
+      "eng": "into",
+      "ru": "внутрь",
+      "engExample": "She got back after lunch and ran the car into the garage",
+      "ruExample": "Она вернулась после завтрака и поставила машину в гараж.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "30a16970-b963-4bfd-8175-ef0f285b9dda",
+      "eng": "onto",
+      "ru": "на, наверх",
+      "engExample": "The dog jumped onto the sofa",
+      "ruExample": "Собака прыгнула на диван",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0fb422fe-2c1c-420e-87f4-7c6d670509f9",
+      "eng": "from",
+      "ru": "из, с, от",
+      "engExample": "Water dropped from the ceiling into the pan on the floor",
+      "ruExample": "Вода капала с потолка в стоящий на полу таз",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2db4dd3a-0156-406d-9adc-902ec8eb5d44",
+      "eng": "through",
+      "ru": "через, по",
+      "engExample": "Walking through the forest one day, we found a little hut",
+      "ruExample": "Однажды, гуляя по лесу, мы обнаружили маленькую хижину.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "660954a6-58a8-4b39-9cf9-8e01b8e17631",
+      "eng": "meal",
+      "ru": "еда",
+      "engExample": "He cooked a nice meal",
+      "ruExample": "Он приготовил вкусную еду",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "aa64c1df-7de0-4bdb-b483-4e6f91b98914",
+      "eng": "agenda",
+      "ru": "повестка дня",
+      "engExample": "I see your agenda",
+      "ruExample": "Я вижу твою повестку дня",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "6a20a3dc-a93f-4b1c-b8b8-5230ea570ed4",
+      "eng": "faithful",
+      "ru": "верный",
+      "engExample": "This boy is me faithful friend",
+      "ruExample": "Этот мальчик мой верный друг",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "2c22f4eb-1060-4cc3-a688-4e031346537c",
+      "eng": "universe",
+      "ru": "вселенная",
+      "engExample": "It tells me how beautiful and how infinite the universe is",
+      "ruExample": "Оно говорит мне, как прекрасна и бесконечна Вселенная.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "ef624029-85a2-4a4b-b020-86e1c58d8d5b",
+      "eng": "seems",
+      "ru": "кажется",
+      "engExample": "It seems it is about 3am",
+      "ruExample": "Кажется, сейчас около 3 часов ночи",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "b5031081-e837-4515-916b-9c3fc4196e33",
+      "eng": "patiently",
+      "ru": "терпеливо",
+      "engExample": "He asked patiently his friend",
+      "ruExample": "Он терпеливо спросил своего друга",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0abd6ec0-2e92-437f-ae1c-9fd264477b87",
+      "eng": "anything else",
+      "ru": "что-нибудь еще",
+      "engExample": "Do you want anything else",
+      "ruExample": "Вы хотите что-нибудь еще",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "c26cbdd3-537e-40fc-9e32-ebd124dd8138",
+      "eng": "judging",
+      "ru": "судить",
+      "engExample": "Judging by the absence clouds, it seems like we will a beautiful day tomorrow",
+      "ruExample": "Судя по отсутствию облаков, завтра нас ждет прекрасный день.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0bfeddf4-9713-4fc7-a6bb-13ce068618a8",
+      "eng": "absence",
+      "ru": "отсутствие",
+      "engExample": "Judging by the absence clouds, it seems like we will a beautiful day tomorrow",
+      "ruExample": "Судя по отсутствию облаков, завтра нас ждет прекрасный день.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "e1417fca-928b-4c09-ba0f-c23238b38319",
+      "eng": "clearly",
+      "ru": "очевидно, несомненно, четко",
+      "engExample": "He was clearly satisfied by his observations",
+      "ruExample": "Он был явно удовлетворен своими наблюдениями.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "091c05df-20e6-4c9f-9405-805fc9b0c0ac",
+      "eng": "satisfied",
+      "ru": "довольный, удовлетворен",
+      "engExample": "He was clearly satisfied by his observations",
+      "ruExample": "Он был явно удовлетворен своими наблюдениями.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "0a96fac9-d658-4bf0-bde7-15a4e1635e18",
+      "eng": "observations",
+      "ru": "наблюдения",
+      "engExample": "He was clearly satisfied by his observations",
+      "ruExample": "Он был явно удовлетворен своими наблюдениями.",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "97fd4151-ba94-42ce-abcc-4bbb4c23a69b",
+      "eng": "stolen",
+      "ru": "украденный",
+      "engExample": "That someone has stolen our tent",
+      "ruExample": "Что кто-то украл нашу палатку",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "id": "49ebdd85-7b4b-44b7-a9dd-658e07e71391",
+      "eng": "gravely",
+      "ru": "серьезно",
+      "engExample": "He said gravely",
+      "ruExample": "Он сказал серьезно",
+      "createdAt": "2/18/2024, 9:08:04 PM",
+      "updatedAt": "2/18/2024, 9:08:04 PM"
+    },
+    {
+      "eng": "thought",
+      "ru": "мысль",
+      "engExample": "Or so we thought.",
+      "ruExample": "Или мы так думали.",
+      "id": "cb80aa85-3623-48fd-9efe-b5ab04b26647",
+      "createdAt": "2/19/2024, 8:24:16 AM",
+      "updatedAt": "2/19/2024, 8:24:16 AM"
+    },
+    {
+      "eng": "recognize",
+      "ru": "распознавать, узнавать",
+      "engExample": "She can recognize some letters",
+      "ruExample": "Она может распознавать некоторые буквы",
+      "id": "945b12b6-0609-4c77-b7dd-141f3bc584cc",
+      "createdAt": "2/19/2024, 8:28:08 AM",
+      "updatedAt": "2/19/2024, 8:28:08 AM"
+    },
+    {
+      "eng": "refuse",
+      "ru": "отказываться",
+      "engExample": "I asked her, but she refused to tell me",
+      "ruExample": "Я спросил ее, но она отказалась мне сказать.",
+      "id": "f8db6793-1a6a-4ac9-8393-bdd3d9223a36",
+      "createdAt": "2/19/2024, 8:34:06 AM",
+      "updatedAt": "2/19/2024, 8:34:06 AM"
+    },
+    {
+      "eng": "beg, begged",
+      "ru": "умолять, умолял",
+      "engExample": "I begged her",
+      "ruExample": "Я умолял ее",
+      "id": "9d5d28a7-6ce6-469e-b143-578f422123d0",
+      "createdAt": "2/19/2024, 8:36:38 AM",
+      "updatedAt": "2/19/2024, 8:36:38 AM"
+    },
+    {
+      "eng": "bribe",
+      "ru": "подкупить",
+      "engExample": "I tried to bribe her with ice cream",
+      "ruExample": "Я пытался подкупить ее мороженым",
+      "id": "c64be2f2-cf86-4f4c-9065-0926adf8c734",
+      "createdAt": "2/19/2024, 8:38:23 AM",
+      "updatedAt": "2/19/2024, 8:38:23 AM"
+    },
+    {
+      "eng": "upset",
+      "ru": "расстройство",
+      "engExample": "I was upset",
+      "ruExample": "Я был расстроен",
+      "id": "3f0cfaa0-6102-4397-bd5a-f573bdd5c601",
+      "createdAt": "2/19/2024, 8:40:45 AM",
+      "updatedAt": "2/19/2024, 8:40:45 AM"
+    },
+    {
+      "eng": "figure out",
+      "ru": "понимать,постигать, вычислять, ",
+      "engExample": "But still I couldn't figure out how she did it",
+      "ruExample": "Но я все еще не мог понять, как она это сделала.",
+      "id": "2b14b364-28c2-489d-a369-981bbbc98e00",
+      "createdAt": "2/19/2024, 8:44:32 AM",
+      "updatedAt": "2/19/2024, 8:44:32 AM"
+    },
+    {
+      "eng": "gave up",
+      "ru": "сдаться",
+      "engExample": "Finally, she gave up",
+      "ruExample": "Наконец она сдалась",
+      "id": "518cfaa6-9f8f-4a9a-89dd-5bbc20cfe1bb",
+      "createdAt": "2/19/2024, 8:46:24 AM",
+      "updatedAt": "2/19/2024, 8:46:24 AM"
+    },
+    {
+      "eng": "taught me",
+      "ru": "научил меня",
+      "engExample": "Taught me something new about computer",
+      "ruExample": "Научил меня чему-то новому о компьютере",
+      "id": "c2d125b3-c673-4846-bd52-1a579fdd88f8",
+      "createdAt": "2/19/2024, 8:50:24 AM",
+      "updatedAt": "2/19/2024, 8:50:24 AM"
+    },
+    {
+      "eng": "sad",
+      "ru": "грустный",
+      "engExample": "He looking very sad",
+      "ruExample": "Он выглядит очень грустным",
+      "id": "6161935b-dd6e-45c9-87b6-a35cd84db9f2",
+      "createdAt": "2/20/2024, 8:42:51 AM",
+      "updatedAt": "2/20/2024, 8:42:51 AM"
+    },
+    {
+      "eng": "hesitate",
+      "ru": "сомневаться, колебаться, не решаться",
+      "engExample": "Leo hesitated for a moment",
+      "ruExample": "Лео на мгновение заколебался",
+      "id": "87bbfa45-0c04-4a4c-8153-9c16f52600a2",
+      "createdAt": "2/20/2024, 10:43:28 AM",
+      "updatedAt": "2/20/2024, 10:43:28 AM"
+    },
+    {
+      "eng": "disbelief",
+      "ru": "недоверие, сомнение, неверие",
+      "engExample": "Leo said in disbelief",
+      "ruExample": "Лео сказал недоверчиво",
+      "id": "b7729e60-dfe0-49ec-b1d4-36155b9fd987",
+      "createdAt": "2/20/2024, 10:46:46 AM",
+      "updatedAt": "2/20/2024, 10:46:46 AM"
+    },
+    {
+      "eng": "kind",
+      "ru": "добрый",
+      "engExample": "He was a kind man",
+      "ruExample": "Он был добрым человеком",
+      "id": "9eaace0a-5647-4c6d-a0ad-4b8db46ee945",
+      "createdAt": "2/20/2024, 10:51:08 AM",
+      "updatedAt": "2/20/2024, 10:51:08 AM"
+    },
+    {
+      "eng": "silent",
+      "ru": "тихий",
+      "engExample": "But he was silent",
+      "ruExample": "Но он молчал",
+      "id": "3a981d10-88c2-45be-acc3-25bba32f25d0",
+      "createdAt": "2/20/2024, 10:53:19 AM",
+      "updatedAt": "2/20/2024, 10:53:19 AM"
+    },
+    {
+      "eng": "necessary",
+      "ru": "необходимый, нужный",
+      "engExample": "Is it necessary",
+      "ruExample": "Это необходимо",
+      "id": "b23349cb-893b-40dc-9143-f0037f978dca",
+      "createdAt": "2/20/2024, 10:54:16 AM",
+      "updatedAt": "2/20/2024, 10:54:16 AM"
+    },
+    {
+      "eng": "once upon a time",
+      "ru": "жил-был, давным-давно, однажды",
+      "engExample": "Once upon a time there lived a young boy named Leo",
+      "ruExample": "Жил-был мальчик по имени Лео.",
+      "id": "19552472-f4c7-446d-aa0e-536212ab887d",
+      "createdAt": "2/20/2024, 11:00:21 AM",
+      "updatedAt": "2/20/2024, 11:00:21 AM"
+    },
+    {
+      "eng": "their",
+      "ru": "их",
+      "engExample": "They use their own implementation.",
+      "ruExample": "Они используют свою собственную реализацию.",
+      "id": "a8321285-802a-4119-bd5d-8493fd2f2f61",
+      "createdAt": "2/20/2024, 11:30:42 AM",
+      "updatedAt": "2/20/2024, 11:30:42 AM"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-/*! EnglishDictionaryApp unknown; build: #unknown */
+/*! EnglishDictionaryApp master; build: #1.0.0 */
 "use strict";(self.webpackChunkeng_dictionary=self.webpackChunkeng_dictionary||[]).push([[56],{1648:(e,n,t)=>{
 /**
  * @license React

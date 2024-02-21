@@ -1,5 +1,5 @@
 {
-  "data": [
+  "words": [
     {
       "id": "59b835ac-2112-47da-897b-3d1ca5900109",
       "eng": "achieved",
@@ -812,12 +812,12 @@
     },
     {
       "id": "69b0c4cb-0c27-41b1-88b9-b9ce25117cdd",
-      "eng": "would like",
+      "eng": "would like, I'd like",
       "ru": "хотел бы",
       "engExample": "I would like to go with your",
       "ruExample": "Я хотел бы пойти с тобой",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/21/2024, 8:00:20 AM"
     },
     {
       "id": "5815f207-60dd-40eb-abbf-b99a53b265db",
@@ -2870,6 +2870,24 @@
       "id": "a8321285-802a-4119-bd5d-8493fd2f2f61",
       "createdAt": "2/20/2024, 11:30:42 AM",
       "updatedAt": "2/20/2024, 11:30:42 AM"
+    },
+    {
+      "eng": "little bit",
+      "ru": "немного",
+      "engExample": "I told you a little bit about myself",
+      "ruExample": "Я рассказал вам немного о себе",
+      "id": "e8a5fcc8-bfbf-43ab-8cf5-065f146d03fa",
+      "createdAt": "2/21/2024, 7:49:19 AM",
+      "updatedAt": "2/21/2024, 7:49:19 AM"
+    },
+    {
+      "eng": "retired",
+      "ru": "пенсионер, ушедший на пенсию",
+      "engExample": "We are both retired",
+      "ruExample": "Мы оба пенсионеры",
+      "id": "335f7aca-01c1-4ec1-bf9d-b9a143f340a8",
+      "createdAt": "2/21/2024, 7:54:57 AM",
+      "updatedAt": "2/21/2024, 7:54:57 AM"
     }
   ]
 }

@@ -7,7 +7,7 @@
       "engExample": "You achieved so much in your life",
       "ruExample": "Вы достигли многого в своей жизни",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/22/2024, 7:21:21 PM"
     },
     {
       "id": "4c514702-0307-46f1-8cfd-9afaa0c34765",
@@ -148,10 +148,10 @@
       "id": "0a2322da-faf8-440e-b00b-1bf9fd777503",
       "eng": "vary",
       "ru": "разные, меняться",
-      "engExample": "The results will very",
+      "engExample": "The results will vary",
       "ruExample": "Результаты будут разные",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/21/2024, 12:40:01 PM"
     },
     {
       "id": "acadda42-79d9-4e04-be0a-059ef1f6c910",
@@ -210,11 +210,11 @@
     {
       "id": "65146794-3b1a-410b-8376-f4107573442b",
       "eng": "discover",
-      "ru": "обнаружить/открывать",
+      "ru": "открывать, обнаружить",
       "engExample": "You will discover that you can do a lot",
       "ruExample": "Вы обнаружите, что можете многое",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/22/2024, 6:45:32 PM"
     },
     {
       "id": "2cefba8b-cbcb-4c7a-80a6-f2e8d428a284",
@@ -246,11 +246,11 @@
     {
       "id": "f2b320d4-9ac5-43d9-be77-2a63b1e4521f",
       "eng": "spend",
-      "ru": "тратить/проводить",
+      "ru": "тратить, проводить",
       "engExample": "How you spend your day",
       "ruExample": "Как ты провел свой день",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/22/2024, 7:12:41 PM"
     },
     {
       "id": "59e414fa-ebae-42a8-b0bc-89a65b346fd2",
@@ -475,7 +475,7 @@
       "engExample": "Man realized his mistake",
       "ruExample": "Мужчина осознал свою ошибку",
       "createdAt": "2/18/2024, 9:08:04 PM",
-      "updatedAt": "2/18/2024, 9:08:04 PM"
+      "updatedAt": "2/22/2024, 7:26:00 PM"
     },
     {
       "id": "86eb0cea-641e-40d7-90c7-45b8e5a514eb",
@@ -2888,6 +2888,51 @@
       "id": "335f7aca-01c1-4ec1-bf9d-b9a143f340a8",
       "createdAt": "2/21/2024, 7:54:57 AM",
       "updatedAt": "2/21/2024, 7:54:57 AM"
+    },
+    {
+      "eng": "it sounds like",
+      "ru": "это звучит как",
+      "engExample": "It sounds like too much work.",
+      "ruExample": "Это звучит как слишком много работы.",
+      "id": "20d26c20-faae-4fc7-9f20-9dcf081278c3",
+      "createdAt": "2/21/2024, 11:38:29 AM",
+      "updatedAt": "2/21/2024, 11:38:29 AM"
+    },
+    {
+      "eng": "abroad",
+      "ru": "за границей",
+      "engExample": "He had never been abroad",
+      "ruExample": "Он никогда не был за границей",
+      "id": "e3171a5d-b54a-4ae1-998f-def695ce4e7d",
+      "createdAt": "2/23/2024, 7:45:31 AM",
+      "updatedAt": "2/23/2024, 7:45:31 AM"
+    },
+    {
+      "eng": "attend",
+      "ru": "посещать",
+      "engExample": "Alex attended Chinese language classes",
+      "ruExample": "Алекс посещал занятия по китайскому языку",
+      "id": "a6e19a1e-81e4-4383-8ad1-9952eb7adcf8",
+      "createdAt": "2/23/2024, 7:48:55 AM",
+      "updatedAt": "2/23/2024, 7:48:55 AM"
+    },
+    {
+      "eng": "made sure",
+      "ru": "убедиться, удостовериться",
+      "engExample": "He made sure he remembered how to say it in Chinese",
+      "ruExample": "Он убедился, что помнит, как это сказать по-китайски.",
+      "id": "e8039c93-8813-4828-b1cc-d40562d5290e",
+      "createdAt": "2/23/2024, 7:55:48 AM",
+      "updatedAt": "2/23/2024, 7:55:48 AM"
+    },
+    {
+      "eng": "doubt",
+      "ru": "сомневаться, сомнение",
+      "engExample": "No doubt, Chinese is not an easy language",
+      "ruExample": "Без сомнения, китайский язык — непростой язык.",
+      "id": "89f30e5f-fe17-4ce7-8090-a07bc2b9bf01",
+      "createdAt": "2/23/2024, 8:02:43 AM",
+      "updatedAt": "2/23/2024, 8:02:43 AM"
     }
   ]
 }
